@@ -1,0 +1,21 @@
+form{
+	width: 5em;
+	display: inline-block;
+}
+input{
+	display: block;
+}
+.contact{
+	margin-left: 400px;
+	margin-bottom: 10px;
+	border: solid black 2px;
+	width: 200px;
+	height: 125px;
+}
+#contactSpace{
+	display:inline-block;
+	vertical-align: top;
+}
+.description{
+	display: none;
+}
